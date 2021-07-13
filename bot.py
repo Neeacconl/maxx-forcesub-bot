@@ -13,9 +13,9 @@ plugins = dict(
 
 app = Client(
      'eagle_eye',
-      bot_token = Config.BOT_TOKEN,
-      api_id = Config.APP_ID,
-      api_hash = Config.API_HASH,
+      bot_token = 1841388817:AAHDhHC3hK0GYnIdszzHceV9meYiPOkAcmA,
+      api_id = 2744894,
+      api_hash = f033339c953e40d8366017033712c530,
       plugins = plugins
 )
 
